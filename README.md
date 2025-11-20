@@ -111,6 +111,7 @@ Gere a chave, migre o banco e compile os assets do Tailwind:
 # Frontend Setup (Instala e compila o CSS/JS)
 ./vendor/bin/sail npm install
 ./vendor/bin/sail npm run build
+```
 
 Aplicação disponível em:
 **[http://localhost](http://localhost)**
